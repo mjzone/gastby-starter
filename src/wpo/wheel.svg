@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="560" height="560" viewBox="0 0 560 560">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.296" cy="1.105" r="1.366" gradientTransform="translate(0.022) scale(0.924 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.04" stop-color="#199a8e"/>
+      <stop offset="1" stop-color="#7af4ab"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.967" cy="0.967" r="1.696" gradientTransform="translate(0.157) scale(0.838 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.04" stop-color="#0956c6"/>
+      <stop offset="0.14" stop-color="#095bc8"/>
+      <stop offset="0.25" stop-color="#0968cf"/>
+      <stop offset="0.36" stop-color="#087fdb"/>
+      <stop offset="0.48" stop-color="#079eeb"/>
+      <stop offset="0.52" stop-color="#07a9f0"/>
+      <stop offset="0.55" stop-color="#1eb1f2"/>
+      <stop offset="0.61" stop-color="#42bef5"/>
+      <stop offset="0.68" stop-color="#5fc9f8"/>
+      <stop offset="0.74" stop-color="#76d2fa"/>
+      <stop offset="0.81" stop-color="#86d7fb"/>
+      <stop offset="0.89" stop-color="#90dbfc"/>
+      <stop offset="1" stop-color="#93dcfc"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="1.279" cy="0.743" r="1.501" gradientTransform="translate(0 0.162) scale(1 0.782)" gradientUnits="objectBoundingBox">
+      <stop offset="0.04" stop-color="#2b3894"/>
+      <stop offset="1" stop-color="#8078bf"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="1.04" cy="0.072" r="1.431" gradientTransform="translate(0 0.016) scale(1 0.782)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c50048"/>
+      <stop offset="1" stop-color="#6864b5"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="0.721" cy="-0.121" r="1.562" gradientTransform="translate(0.117) scale(0.838 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c50048"/>
+      <stop offset="0.48" stop-color="#e02b6a"/>
+      <stop offset="1" stop-color="#ff5e93"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-6" cx="1.04" cy="0.072" r="1.549" gradientTransform="translate(0.079) scale(0.924 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-7" cx="-0.125" cy="0.207" r="1.358" gradientTransform="translate(0 0.029) scale(1 0.859)" gradientUnits="objectBoundingBox">
+      <stop offset="0.04" stop-color="#ff9100"/>
+      <stop offset="1" stop-color="#ffb655"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="0.21" cy="0.074" r="1.19" gradientUnits="objectBoundingBox">
+      <stop offset="0.04" stop-color="#d8d9dd"/>
+      <stop offset="0.55" stop-color="#edeef0"/>
+      <stop offset="1" stop-color="#f7f7f8"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="0.076" cy="0.019" r="1.465" gradientTransform="translate(0)" xlink:href="#radial-gradient-8"/>
+    <radialGradient id="radial-gradient-11" cx="0.353" cy="0.228" r="0.867" gradientTransform="translate(0.039) scale(0.888 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#828282"/>
+      <stop offset="0.3" stop-color="#848484" stop-opacity="0.98"/>
+      <stop offset="0.47" stop-color="#8b8b8b" stop-opacity="0.922"/>
+      <stop offset="0.6" stop-color="#969697" stop-opacity="0.812"/>
+      <stop offset="0.72" stop-color="#a6a6a7" stop-opacity="0.659"/>
+      <stop offset="0.83" stop-color="#bbbcbd" stop-opacity="0.471"/>
+      <stop offset="0.92" stop-color="#d4d5d7" stop-opacity="0.231"/>
+      <stop offset="1" stop-color="#edeef0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-12" cx="0.088" cy="0.032" r="1.445" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7f7f8"/>
+      <stop offset="0.51" stop-color="#fbfbfb"/>
+      <stop offset="0.72" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="wheel" transform="translate(-0.651 -0.991)">
+    <g id="circular" transform="translate(0.651 0.991)">
+      <g id="Segments-circle">
+        <path id="Path-7" d="M284.689,287.967a2.853,2.853,0,0,1-1.53,1.926L160.271,34.657A280.5,280.5,0,0,0,8.517,224.937Z" transform="translate(-1.491 -6.888)" opacity="0.5" fill="url(#radial-gradient)"/>
+        <path id="Path-6" d="M282.659,325.992a2.767,2.767,0,0,1,.538,2.38L7.025,265.341A280.583,280.583,0,0,0,61.189,502.618Z" transform="translate(0 -47.903)" opacity="0.5" fill="url(#radial-gradient-2)"/>
+        <path id="Path-5" d="M293.442,337.566a2.833,2.833,0,0,1,2.21,1.076L74.182,515.268a280.36,280.36,0,0,0,219.26,105.579Z" transform="translate(-12.993 -60.848)" opacity="0.5" fill="url(#radial-gradient-3)"/>
+        <path id="Path-4" d="M337.321,338.642a2.833,2.833,0,0,1,2.21-1.076V620.848a280.36,280.36,0,0,0,219.26-105.579Z" transform="translate(-59.98 -60.848)" opacity="0.5" fill="url(#radial-gradient-4)"/>
+        <path id="Path-3" d="M336.653,328.372a2.767,2.767,0,0,1,.538-2.38l221.47,176.626a280.583,280.583,0,0,0,54.164-237.277Z" transform="translate(-59.85 -47.903)" opacity="0.5" fill="url(#radial-gradient-5)"/>
+        <path id="Path-2" d="M338.2,289.894a2.853,2.853,0,0,1-1.53-1.926l276.172-63.03A280.5,280.5,0,0,0,461.086,34.657Z" transform="translate(-59.866 -6.888)" fill="url(#radial-gradient-6)"/>
+        <path id="Path-1" d="M315.383,284a2.824,2.824,0,0,1-2.436,0L435.834,28.76a280.434,280.434,0,0,0-243.339,0Z" transform="translate(-34.165 -0.991)" opacity="0.5" fill="url(#radial-gradient-7)"/>
+      </g>
+      <g id="step-7" transform="matrix(0.643, -0.766, 0.766, 0.643, 78.935, 158.753)">
+        <g id="Group">
+          <text id="RETIRE" transform="translate(0 20)" fill="#fff" font-size="19" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="0">RETIRE</tspan></text>
+        </g>
+      </g>
+      <g id="step-6" transform="translate(61.107 372.226) rotate(-100)">
+        <g id="Group-2" data-name="Group" transform="translate(0 0)">
+          <text id="HARVEST" transform="translate(0 20)" fill="#fff" font-size="19" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="0">HARVEST</tspan></text>
+        </g>
+      </g>
+      <g id="step-5" transform="translate(203.306 501.799) rotate(-152)">
+        <g id="Group-3" data-name="Group">
+          <text id="BUILD" transform="translate(0 20)" fill="#fff" font-size="19" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="0">BUILD</tspan></text>
+        </g>
+      </g>
+      <g id="step-4" transform="translate(406.507 479.799) rotate(156)">
+        <g id="Group-4" data-name="Group" transform="translate(0 0)">
+          <text id="PLAN" transform="translate(0 20)" fill="#fff" font-size="19" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="0">PLAN</tspan></text>
+        </g>
+      </g>
+      <g id="step-3" transform="translate(519.116 285.663) rotate(104)">
+        <g id="Group-5" data-name="Group">
+          <text id="IMMERSE" transform="translate(0 20)" fill="#fff" font-size="19" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="0">IMMERSE</tspan></text>
+        </g>
+      </g>
+      <g id="step-2" transform="translate(439.19 106.474) rotate(52)">
+        <g id="Group-6" data-name="Group">
+          <text id="FOCUS" transform="translate(0 20)" fill="#fff" font-size="19" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="0">FOCUS</tspan></text>
+        </g>
+      </g>
+      <g id="step-1" transform="translate(229.4 47.848)">
+        <g id="Group-7" data-name="Group">
+          <text id="EXPLORE" transform="translate(0 20)" fill="#fff" font-size="19" font-family="Futura-Bold, Futura" font-weight="700"><tspan x="0" y="0">EXPLORE</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="center" transform="translate(121.354 121.411)">
+      <circle id="Oval" cx="155.484" cy="155.484" r="155.484" transform="translate(3.687 3.687)" fill="#fff"/>
+      <path id="Shape" d="M160.114.53A159.584,159.584,0,1,0,319.7,160.114,159.584,159.584,0,0,0,160.114.53Zm0,310.086a150.5,150.5,0,1,1,106.421-44.081A150.5,150.5,0,0,1,160.114,310.616Z" transform="translate(-0.53 -0.53)" fill="url(#radial-gradient-8)"/>
+      <path id="Path" d="M291.947,163.315a125.51,125.51,0,0,0-31.625-83.467A125.963,125.963,0,0,0,74.871,250.3a125.963,125.963,0,0,0,217.076-86.98Z" transform="translate(-8.009 -7.591)" fill="url(#radial-gradient-9)"/>
+      <path id="Path-2-2" data-name="Path" d="M291.947,168.415a125.5,125.5,0,0,0-31.625-83.467A125.963,125.963,0,0,0,74.871,255.4a125.963,125.963,0,0,0,217.076-86.98Z" transform="translate(-8.009 -8.485)" fill="url(#radial-gradient-9)"/>
+      <path id="Path-3-2" data-name="Path" d="M106.75,247.611,166.89,310q5.188.437,10.5.437A125.971,125.971,0,0,0,303.353,184.453q0-2.994-.14-5.955L260.477,135.77Z" transform="translate(-19.134 -24.217)" fill="url(#radial-gradient-11)"/>
+      <path id="Path-4-2" data-name="Path" d="M269.762,173.576A96.186,96.186,0,1,1,173.576,77.39a96.186,96.186,0,0,1,96.186,96.186Z" transform="translate(-13.992 -13.992)" fill="#fff"/>
+      <path id="Path-5-2" data-name="Path" d="M269.762,173.575A95.809,95.809,0,1,0,241.7,241.7,96.186,96.186,0,0,0,269.762,173.575Z" transform="translate(-13.991 -13.991)" fill="url(#radial-gradient-12)"/>
+      <path id="Path-6-2" data-name="Path" d="M263.655,142.86a96.2,96.2,0,0,1-165.605,95.8,96.9,96.9,0,0,0,9.568,12.81A96.2,96.2,0,0,0,263.655,142.86Z" transform="translate(-17.611 -25.459)" fill="#edeef0"/>
+    </g>
+  </g>
+</svg>
